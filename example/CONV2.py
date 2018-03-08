@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
+#some changes happened
 
 def conv2(X,k):
     x_row,x_col = X.shape
